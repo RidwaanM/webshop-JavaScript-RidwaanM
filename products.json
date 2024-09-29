@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Chokladmunk",
+        "price": 25,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Glaserad munk",
+        "price": 20,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Jordgubbsmunk",
+        "price": 22,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name": "Blåbärsmunk",
+        "price": 24,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Kanelmunk",
+        "price": 23,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Vaniljmunk",
+        "price": 26,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name": "Sockerfri munk",
+        "price": 30,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name": "Fylld munk (kräm)",
+        "price": 28,
+        "image": "image/8.png"
+    }
+]
